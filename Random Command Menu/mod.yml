@@ -1,0 +1,156 @@
+title: Random Cmd Menu
+assets:
+  - name: field2d/jp/al0command.2dd
+    method: copy
+    source:
+        - name: es0command.2dd
+        
+  - name: field2d/jp/bb0command.2dd
+    method: copy
+    source:
+        - name: lk0command.2dd
+        
+  - name: field2d/jp/ca0command.2dd
+    method: copy
+    source:
+        - name: tt3command.2dd
+        
+  - name: field2d/jp/dc0command.2dd
+    method: copy
+    source:
+        - name: tt4command.2dd
+        
+  - name: field2d/jp/dc0command.2dd
+    method: copy
+    source:
+        - name: mu0command.2dd
+        
+  - name: field2d/jp/dc1command.2dd
+    method: copy
+    source:
+        - name: tr0command.2dd
+        
+  - name: field2d/jp/di0command.2dd
+    method: copy
+    source:
+        - name: eh1command.2dd
+        
+  - name: field2d/jp/eh0command.2dd
+    method: copy
+    source:
+        - name: dc0command.2dd
+        
+  - name: field2d/jp/eh1command.2dd
+    method: copy
+    source:
+        - name: eh0command.2dd
+        
+  - name: field2d/jp/es0command.2dd
+    method: copy
+    source:
+        - name: nm0command.2dd
+        
+  - name: field2d/jp/hb0command.2dd
+    method: copy
+    source:
+        - name: po0command.2dd
+        
+  - name: field2d/jp/hb1command.2dd
+    method: copy
+    source:
+        - name: ca0command.2dd
+        
+  - name: field2d/jp/hb2command.2dd
+    method: copy
+    source:
+        - name: tt2command.2dd
+        
+  - name: field2d/jp/he0command.2dd
+    method: copy
+    source:
+        - name: nm1command.2dd
+        
+  - name: field2d/jp/he1command.2dd
+    method: copy
+    source:
+        - name: wi0command.2dd
+        
+  - name: field2d/jp/lk0command.2dd
+    method: copy
+    source:
+        - name: dc0command.2dd
+        
+  - name: field2d/jp/lm0command.2dd
+    method: copy
+    source:
+        - name: al0command.2dd
+        
+  - name: field2d/jp/mu0command.2dd
+    method: copy
+    source:
+        - name: hb1command.2dd
+        
+  - name: field2d/jp/nm0command.2dd
+    method: copy
+    source:
+        - name: di0command.2dd
+        
+  - name: field2d/jp/nm1command.2dd
+    method: copy
+    source:
+        - name: tt1command.2dd
+        
+  - name: field2d/jp/po0command.2dd
+    method: copy
+    source:
+        - name: lm0command.2dd
+        
+  - name: field2d/jp/tr0command.2dd
+    method: copy
+    source:
+        - name: he1command.2dd
+        
+  - name: field2d/jp/tt0command.2dd
+    method: copy
+    source:
+        - name: dc1command.2dd
+        
+  - name: field2d/jp/tt1command.2dd
+    method: copy
+    source:
+        - name: hb2command.2dd
+        
+  - name: field2d/jp/tt2command.2dd
+    method: copy
+    source:
+        - name: bb0command.2dd
+        
+  - name: field2d/jp/tt3command.2dd
+    method: copy
+    source:
+        - name: he0command.2dd
+        
+  - name: field2d/jp/tt4command.2dd
+    method: copy
+    source:
+        - name: tt0command.2dd
+        
+  - name: field2d/jp/tt5command.2dd
+    method: copy
+    source:
+        - name: tt6command.2dd
+        
+  - name: field2d/jp/tt6command.2dd
+    method: copy
+    source:
+        - name: hb0command.2dd
+        
+  - name: field2d/jp/wi0command.2dd
+    method: copy
+    source:
+        - name: tt5command.2dd
+        
+  - name: field2d/jp/wm0command.2dd
+    method: copy
+    source:
+        - name: zz0command.2dd  
