@@ -1,4 +1,5 @@
 title: Random Cmd Menu
+game: kh2
 assets:
   - name: field2d/jp/al0command.2dd
     method: copy
