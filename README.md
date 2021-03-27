@@ -7,6 +7,6 @@ A mod for the OpenKH Mod Manager that randomizes the KH2 Command Menus
 ### How to use:
 * Install the mod using OpenKH Mod Manager
 * Navigate to the OpenKH `Mods` Folder
-* Open the `Random.Command.Menu` folder
+* Open the `Random-Command-Menu` folder
 * Run `Randomize.exe`
 * Your command menus are now randomized!
